@@ -11,7 +11,7 @@ const site = {
   disqusShortName: `Tomoya's Blog`,
   googleTrackingId: '',
   lang: 'en',
-  displayTranslations: true,
+  displayTranslations: false,
 };
 
 const supportedLanguages = {

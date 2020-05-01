@@ -9,7 +9,7 @@ const {
   github = '',
   medium = '',
   facebook = '',
-  disqusShortName = '',
+  disqusShortName = 'tomoyas-blog',
   lang = 'en',
   googleTrackingId: trackingId,
 } = require('./config').site;
