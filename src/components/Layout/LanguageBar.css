@@ -6,6 +6,15 @@
   display: flex;
   flex-direction: row-reverse;
 }
+.bar .mypage {
+  position: absolute;
+  top: 1.5%;
+  left: 25%;
+}
+
+.bar .mypage a {
+  /* color: white; */
+}
 
 .toggle-content {
   max-height: 0px;

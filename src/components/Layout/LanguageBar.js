@@ -58,6 +58,11 @@ function LanguageBar({ lang: langKey }) {
             }}
           >
             <div className="bar">
+              <div className="mypage">
+                <a href="https://techguy10308mypage.netlify.app/" target="__blank">
+                  ← THE TECH GUY
+                </a>
+              </div>
               <LangButton lang={language} focused={displayLang} onClick={handleToggleLanguage} />
             </div>
             <div className="toggle-content" style={toggleStyle}>
