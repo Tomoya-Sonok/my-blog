@@ -28,9 +28,9 @@ However, these days I've started to imagine myself working with using English in
 
  - Keep up this bilingual blog(`Writing`).
 
-This blog is completely bilingual. So managing and sticking to this blog simply means I have to keep writing English as much as I write Japanese for outputing what I learn and think.
+This blog is completely bilingual. So managing and sticking to this blog simply means I have to keep writing English as much as I write Japanese for outputting what I learn and think.
 
-Along the way, I would look up some words and phrases to make sure if I'm using them right so I can input English at the same time, rather than just outputing what I've already got.
+Along the way, I would look up some words and phrases to make sure if I'm using them right so I can input English at the same time, rather than just outputting what I've already got.
 
  - Speak English with business people on Cambly(`Speaking`).
 
