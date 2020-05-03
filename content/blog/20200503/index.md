@@ -40,7 +40,7 @@ I will choose a regular plan（30mins / day & 5days / week） and only talk to b
 
 For the first **15mins**, `I will ask as many questions as possible and input what they've learned in their workfields`. And the second **15mins**, `I will output what I learn from their talk and ask them to correct my English if it doesn't sound like business English`
 
-Speaking of `Reading` and `Listening`, I'll keep collecting new information on English sources, and watch American TV shows like "SUITS" and "Silicon Valley"（I love them SO much :laughing:）
+In terms of `Reading` and `Listening`, I'll keep collecting new information from English sources, and watch American TV shows like "SUITS" and "Silicon Valley"（I love them SO much 😂）
 
 
 ---
@@ -51,9 +51,9 @@ I have a dream that I get a job in English-speaking country and work in the equi
 
 To make the dream come true, what I'm definitely going to do by the age of 30 is **Working Holiday**.（Haven't really decided where to go but most likely, `Canada` or `Australia`）
 
-Due to the covid-19 situation I can't make a firm decision about when to go either, however, I'll be ready to go for working holiday in 3〜5 years anyway.
+Due to the covid-19 situation I can't make a firm decision about when to go either, however, I'll get ready to go for working holiday in 3〜5 years anyway.
 
-After I eventually get there, I would study hard for IT-related diploma at local school, working in part-time job for paying bills. And then I'll go straight into IT company with resume and what I actually learn at the school.
+After I eventually get there, I would study hard for IT-related diploma at local school, working in part-time job for paying bills. And then I'll go straight into IT company with a refined resume and what I will actually learn at the school.
 
 ### Actions
  - Save up money as much as possible
@@ -64,7 +64,7 @@ Depending on how much I earn from the future company and how much my new place i
  
  - Make a researvation for a place to live beforehand
 
-I'm planning to find my place to live while the working holiday because I don't wanna pay a lot of money for agent's work. I'll be using [flatmates](https://flatmates.com.au/) for Australia and [roomgo](https://ca.roomgo.net/) for Canada.
+I'm planning to find my place to live for working holiday because I don't wanna pay a lot of money for agent's work. I'll be using [flatmates](https://flatmates.com.au/) for Australia and [roomgo](https://ca.roomgo.net/) for Canada.
 
 As I'll be busy with tasks or assignments from the school, I'd love to find a place which is relatively cheap and has my own room in which I can focus on developing what I need to build.
 
@@ -74,7 +74,7 @@ Job hunting in foreign country will be super hard for everyone. Therefore, I'm s
 
 For instance, I already made a LinkedIn account so I can fill out with the profile before going for working holiday. Or I can practice speaking in job interview by asking tutors on Cambly.
 
-Furthermore, this blog itself is going to be something really helpful for job hunting in foreign country because it will effectively show off what I've experience in Japanese company and what I'm capable of.
+Furthermore, this blog itself is going to be something really helpful for job hunting in foreign country because it will effectively show off what I've experienced in Japanese company and what I'm capable of.
 
 ---
 
@@ -84,7 +84,7 @@ In other words, I want to be **the one who can somehow give a value to the compa
 
 Since I don't have any official work experiences yet (excluding 6-month internship), I'm expecting to **take** a lot from the company in a way they would give me job trainings and they put some extra time into my growth.
 
-However, as an altruist (= the oppsite of egoist), I would rather stay away from the situation and **give** some values to someone nearby. Plus, I believe teaching what I teach myself to others is more effective than getting taught by others.
+However, as an altruist (= the oppsite of egoist), I would rather stay away from that kind of situation and **give** some values to someone nearby. Plus, I believe teaching what I teach myself to others is more effective than getting taught by others.
 
 In order to put myself in a giver position and make it easier for others to ask me something, I should actually develop myself as possible and give them awareness of what I'm capable of. 
 
@@ -99,7 +99,7 @@ In order to put myself in a giver position and make it easier for others to ask 
 
 When I read this post after one next year, I hope I would be able to say "Well done" with confidence.
 
-Thank you for reading, guys.
+Thank you for reading, guys.  
 Cheers!
 
 Tomoya
