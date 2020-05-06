@@ -10,7 +10,7 @@ disqus: true
 
 I wanted to know how to make a static string editable by using react. But I couldn't easily find what I was looking for on the Internet so I'll post this memo for whoever needs to know how to build it.
 
-First, let's run `create-react-app` sample app.
+First, let's run `create-react-app` for making sample app.
 
 ```shell
 npx create-react-app edit-form
@@ -134,8 +134,8 @@ handleSubmit(e) {
     e.preventDefault()
     if (!this.state.input) return
     this.setState({
-      input: this.state.input, // ここでinputの値を更新して
-      editing: !this.state.editing, // 同時にeditingをfalseに
+      input: this.state.input, // Here "input" is updated and
+      editing: !this.state.editing, // switch "editing" to true/false
     })
   }
 ```
