@@ -58,3 +58,6 @@ A string which gets put into `password` column is going to be encrypted by **has
 
 When a user want to login or edit his password, the application will check if the hash value for what he typed corresponds the one on Database. If corresponded, the user can finally login and edit the user information.
 
+Thanks for reading, guys.
+
+Tomoya
