@@ -61,3 +61,5 @@ gatsby develop
 今回の[gatsby-starter-portfolio-cara](https://www.gatsbyjs.org/starters/LekoArts/gatsby-starter-portfolio-cara/)というテンプレートの場合、作成されたフォルダの中の`src`の中に`intro.mdx`というファイルが入っており、ページのトップの部分はマークダウン式で中身を自由に編集できるようになっている。トップ以外の箇所も、`projects.mdx`、`about.mdx`、`contact.mdx`という風にそれぞれファイルを`src`の中に作成してマークダウン式で編集が可能。
 
 転載元のQiita記事は[こちら](https://qiita.com/wlcmty/items/1fc6a4bc57896fd84035)。
+
+Tomoya

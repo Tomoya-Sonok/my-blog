@@ -165,3 +165,5 @@ export default App
 [![Image from Gyazo](https://i.gyazo.com/816e29f7ab89c608d09e3ddfd0883baf.gif)](https://gyazo.com/816e29f7ab89c608d09e3ddfd0883baf)
 
 おわり。
+
+Tomoya
