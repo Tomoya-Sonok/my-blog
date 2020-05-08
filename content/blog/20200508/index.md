@@ -10,6 +10,7 @@ I'll take a note of Kubernetes because I didn't know well about this great techn
 Yes, **Kubernetes is originally made by an engineer of Google!**
 
 ![kubernetes](./kubernetes.png)
+from [Kerbenetes in 5 mins](https://youtu.be/PH-2FfFD2PU)
 
 ## What is Kubernetes?
 Kubernetes is an open source **container orchestration engine** for automating deployment, scaling, and management of containerized applications, published by Google in 2014. Now it is hosted by the Cloud Native Computing Foundation (CNCF).

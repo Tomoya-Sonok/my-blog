@@ -8,6 +8,7 @@ disqus: true
 Google信者なのに、Googleと深い関わりのあるKubernetesという技術をあまり知らなかったのでここにメモとしてまとめておく。
 
 ![kubernetes](./kubernetes.png)
+from [Kerbenetes in 5 mins](https://youtu.be/PH-2FfFD2PU)
 
 ## Kubernetesとは？
 2014年にGoogleからオープンソースとして発表されたコンテナ・オーケストレーターで、現在はCloud Native Computing Foundation（CNCF）によって管理されている。
