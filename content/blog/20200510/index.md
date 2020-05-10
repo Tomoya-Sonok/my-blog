@@ -5,8 +5,8 @@ tags: ["React", "Rails", "2020"]
 disqus: true
 ---
 
-Hey, I'm Tomoya.
-Currently I'm on deploying the application that I've developed with my great teammates. And along the way, I guess I'll need a memo of how we originally start this project. So I'm writing about it below.
+Hey, I'm Tomoya.  
+Currently I'm on deploying the application that I've developed with my great teammates. And along the way, I guess I'll need a memo of how we originally started this project. So I'm writing about it below.
 
 I'll briefly explain how to set up a development environment of another Rails (API) × React × MySQL (MariaDB) project.
  (There are some inefficient codes that need to be fixed or improved since this is just a memo for myself. If you can read Japanese documents, you'd want to read more reliable sources at the bottom of this post.)
@@ -17,8 +17,7 @@ I'll briefly explain how to set up a development environment of another Rails (A
  - Just how to set up the development environment (not including detailed configuration of CORS, cookies, etc..)
 
 ### How to build
-First, let's just make `sample_app` and move to the directry
-まずは、使用するディレクトリを作成して、移動。
+First, let's just make `sample_app` and move to the directry.
 
 ```terminal
 mkdir sample_app
@@ -70,8 +69,8 @@ exec "$@"
 Gemfile
 ```Gemfile
 source 'https://rubygems.org'
-ruby '2.6.5' # 使用したいバージョンを記載
-gem 'rails', '< 6.0' # 使用したいバージョンを記載
+ruby '2.6.5' # select the version you want to use
+gem 'rails', '< 6.0' # select the version you want to use
 ```
 
 Gemfile.lock
