@@ -10,3 +10,15 @@ GraphQLとRESTAPIについて
 
 React × Rails のデプロイについてまとめる
 
+
+
+
+
+`Ctrl + P`：
+`Ctrl + N`：
+`Ctrl + F`：
+`Ctrl + B`：
+
+`Ctrl + D`
+
+`option + command + I`
