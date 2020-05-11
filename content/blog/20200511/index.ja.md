@@ -62,6 +62,6 @@ Tomoya
 
 
  ## 参考にした記事：
-[Ruby on Rails+ReactでCRUDを実装してみた](https://qiita.com/yoshimo123/items/9aa8dae1d40d523d7e5d)
-[What is CORS | Codecademy](https://www.codecademy.com/articles/what-is-cors)
-[CORSがよくわからないので解説してみた＆Rails APIでのCORS設定](https://qiita.com/mtoyopet/items/326ba62d485e9ef0dacd)
+[Ruby on Rails+ReactでCRUDを実装してみた](https://qiita.com/yoshimo123/items/9aa8dae1d40d523d7e5d)  
+[What is CORS | Codecademy](https://www.codecademy.com/articles/what-is-cors)  
+[CORSがよくわからないので解説してみた＆Rails APIでのCORS設定](https://qiita.com/mtoyopet/items/326ba62d485e9ef0dacd)  

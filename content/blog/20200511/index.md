@@ -30,6 +30,7 @@ gem 'rack-cors' # here
 
 After installing `rack-cors`, you'll notice you have `cors.rb` in `config/initializers`. Add the configuration below.
 
+cors.rb
 ```rb
 config.middleware.insert_before 0, Rack::Cors do
       allow do
@@ -43,6 +44,7 @@ config.middleware.insert_before 0, Rack::Cors do
 
 If you want to store session data with cookie, you also need to add `credentials: true` to the same file.
 
+cors.rb
 ```rb
 config.middleware.insert_before 0, Rack::Cors do
       allow do
