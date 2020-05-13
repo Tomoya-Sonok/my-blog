@@ -9,7 +9,7 @@ disqus: true
 
 よって、私が**Reactを使って開発した時に意識したものや使ったツール**等を備忘録として書き残しておく。
 
-# 必要なツール、知識
+## 必要なツール、知識
 
  ### ・React Developer Tools
  ![official react dev tools picture](./official_react_extension.png)

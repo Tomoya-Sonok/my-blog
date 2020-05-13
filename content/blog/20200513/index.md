@@ -9,7 +9,7 @@ I've had quite much experiences on Ror (Ruby on Rails) projects, and I know ther
 
 Therefore, this time I'll be taking a memo about debugging tools for React application and what I believe is important for debugging in React.
 
-# What you need to know to debug in React
+## What you need to know to debug in React
 
  ### ・React Developer Tools
  ![official react dev tools picture](./official_react_extension.png)
