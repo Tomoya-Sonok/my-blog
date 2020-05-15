@@ -34,6 +34,7 @@ function Bio() {
                 className="pic"
                 style={{
                   marginRight: rhythm(1 / 2),
+                  transform: 'translateY(-20px)',
                 }}
                 imgStyle={{
                   borderRadius: '50%',
