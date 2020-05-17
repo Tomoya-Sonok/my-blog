@@ -123,7 +123,7 @@ if pref == "Osaka" or pref == "Hiroshima":
 ```
 
 ## Class and Instance
-How to declare and generate instance in Python is something I'm not familiar with. You need to put in `self` as an argument of methods.
+How to declare and generate instance in Python is something I'm not familiar with. In Python, you need to put in `self` as an argument of methods.
 
 ### Ruby
 ```ruby
