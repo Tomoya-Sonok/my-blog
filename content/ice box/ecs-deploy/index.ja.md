@@ -120,3 +120,10 @@ Tags: つける必要はない。（例：Name, thinky-ecs01）
 [【AWS】EC2のインスタンスとは？インスタンスタイプの特徴と比較,覚え方/選び方](https://milestone-of-se.nesuke.com/sv-advanced/aws/instance-type-and-feature/)
 [Docker基本コマンドまとめ](https://qiita.com/zamakei1016/items/660236084f29195b6a90)
 [AWS Black Belt Online Seminar 2016 Amazon EC2 Container Service](https://www.slideshare.net/AmazonWebServicesJapan/aws-black-belt-online-seminar-2016-amazon-ec2-container-service)
+
+---
+
+# EC2に直入れする手順
+
+### EC2インスタンスを作成
+

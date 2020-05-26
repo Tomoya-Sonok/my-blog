@@ -1,24 +1,19 @@
-ホームポジションから手を遠ざけずにカーソルを移動する
-Alfledで任意のアプリケーションを一瞬で起動
-デベロッパーツールを一瞬で開く
-itermでターミナル操作を快適に
-Touch Barのカスタマイズで、必要な機能を常に表示
-
-
 GraphQLとRESTAPIについて
 
 
 React × Rails のデプロイについてまとめる
 
 
-
-
-
+よく使うショートカット
 `Ctrl + P`：
 `Ctrl + N`：
 `Ctrl + F`：
 `Ctrl + B`：
 
 `Ctrl + D`
+`Ctrl + H`
 
 `option + command + I`
+
+Alfledで任意のアプリケーションを一瞬で起動
+itermでターミナル操作を快適に
