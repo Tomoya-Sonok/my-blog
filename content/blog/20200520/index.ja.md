@@ -1,6 +1,6 @@
 ---
 title: 【Python】Seleniumによる自動化でスクレイピング
-date: "2020-05-18"
+date: "2020-05-20"
 tags: ["Python", "Selenium", "2020"]
 disqus: true
 ---
