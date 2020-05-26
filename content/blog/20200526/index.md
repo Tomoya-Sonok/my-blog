@@ -19,12 +19,12 @@ Unlike other virtual machine softwares `like VMware`, Docker container is lightw
 
 **IaC ( Infrastructure as Code )** came to be recognized for Docker, and this concept is boosting its popularity I think.
 
-## 使い方
-今回はなんとなく、Pythonの開発環境をコンテナを簡単に作っていく。
+## How to use Docker
+Let's set up Python environment by Docker.
 
-1 . まずは、[こちら](https://hub.docker.com/editions/community/docker-ce-desktop-mac)からDockerhubアカウントを作成し、`Docker Desktop for Mac`をインストール。
+1 . [Here](https://hub.docker.com/editions/community/docker-ce-desktop-mac) you can create `Dockerhub account` and install `Docker Desktop for Mac`.
 
-2 . 今回扱うPython開発環境用コンテナを使うディレクトリを作成して、その中でDockerfileを新規作成。
+2 . Make a directory for this python environment, and create Dockerfile inside of the directory.
 
 ```terminal
 mkdir python_env
@@ -32,56 +32,52 @@ cd python_env
 touch Dockerfile
 ```
 
-3 . 作成したDockerfileにPythonの環境構築に必要な記述を書く。（Dockerfileの中では、行頭の#以外はコメントとして判別されないので注意）
+3 . Write necessary codes below in Dockerfile. (Note that Dockerfile doesn't recognize `#` as a comment unless it's at beginning of the line)
 
 ```terminal
 vim Dockerfile
 ```
 
 ```Dockerfile
-# Dockerhubから公式イメージを取得
+# Pull the official image from Dockerhub
 FROM python
-# コマンドを実行するユーザーを指定
+# User who executes the commands
 USER root
-# コンテナ内で作業を行うディレクトリを指定
+# Working directory
 WORKDIR /python_env
-# RUNでコンテナ起動時に実行するコマンドを指定
-# RUNが多い場合は、「&&」を使ってなるべく１つのRUNにまとめた方がbetter
-# FROMやRUNなどのレイヤーが多いとコンテナ起動が少し遅くなる
+# Commands that are going to be executed when the container is running
 RUN apt-get update
 RUN apt-get install -y vim
 RUN pip install requests
 
-# 以下の3つは日本語の設定
+# Configuration of Japanese
 ENV LANG ja_JP.UTF-8
 ENV LANGUAGE ja_JP:ja
 ENV LC_ALL ja_JP.UTF-8
 ```
 
-4 . `docker build -t {任意のイメージ名} .`で実際にDockerfileからイメージをビルドして、確認してみる。
+4 . By running `docker build -t {image name} .`, you can build the image. Make sure if you successfully created one by running `docker images`.
 
 ```terminal
 docker build -t python_img .
 docker images
 ```
 
-`python_img`というイメージが生成されていればOK。
-
-5 . `docker run -it {作成したイメージ名} bash`でそのイメージからコンテナを生成して、`-it`というオプションを付ければそのまま中に入ることができる。実際に入って、Pythonのバージョンを確認してみる。
+5 . By running `docker run -it {作成したイメージ名} bash`, you can generate the container and get into it if you put `-it`. Again make sure Python is certainly installed inside.
 
 ```terminal
 docker run -it python_img bash
 
-（コンテナの中に入ったら）
+（Inside the container）
 python --version
 ```
 
-Pythonのバージョンが表示されれば完了。
-このコンテナ内でvimを使ってpythonプログラムを書けば、問題なく実行できるはず。
+You see the version of Python? Alright!
+Now you can use `vim` to write python programs and execute them successfully inside the container.
 
 
 Tomoya
 
-参考にした記事：  
+### References:  
 [初心者による初心者のためのDocker入門 その１ dockerコマンド編](https://qiita.com/k5n/items/2212b87feac5ebc33ecb)  
 [Dockerfileの書き方](https://hacknote.jp/archives/54050/)  
