@@ -81,6 +81,6 @@ Pythonのバージョンが表示されれば完了。
 
 Tomoya
 
-参考にした記事：  
+### 参考にした記事：  
 [初心者による初心者のためのDocker入門 その１ dockerコマンド編](https://qiita.com/k5n/items/2212b87feac5ebc33ecb)  
 [Dockerfileの書き方](https://hacknote.jp/archives/54050/)  
